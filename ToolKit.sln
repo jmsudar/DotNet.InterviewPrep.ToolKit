@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F14CCAEA-8AC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "src\LINQ\LINQ.csproj", "{68D6D4A1-33FC-452A-B9B0-31E3A0E4DD09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "src\String\String.csproj", "{1DBF550E-6615-4C3A-899C-C160F569A8B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +22,13 @@ Global
 		{68D6D4A1-33FC-452A-B9B0-31E3A0E4DD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68D6D4A1-33FC-452A-B9B0-31E3A0E4DD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68D6D4A1-33FC-452A-B9B0-31E3A0E4DD09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DBF550E-6615-4C3A-899C-C160F569A8B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DBF550E-6615-4C3A-899C-C160F569A8B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DBF550E-6615-4C3A-899C-C160F569A8B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DBF550E-6615-4C3A-899C-C160F569A8B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{68D6D4A1-33FC-452A-B9B0-31E3A0E4DD09} = {F14CCAEA-8AC7-4CA6-B8B2-0CF7669E9D6F}
+		{1DBF550E-6615-4C3A-899C-C160F569A8B9} = {F14CCAEA-8AC7-4CA6-B8B2-0CF7669E9D6F}
 	EndGlobalSection
 EndGlobal
