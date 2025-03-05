@@ -13,3 +13,11 @@ For the sake of expedience in creating this repo, as well as in not cluttering u
 LINQ is Microsoft's in-line query engine. It allows you to use dot-notation to run pre-built queries on collections. These queries save you a ton of work if you understand how they work and how to use them. Some queries will use lambda functions in order to perform comparison operations and similar, allowing you to query, select, filter, or arrange the items in a collection without having to run that operation yourself.
 
 [LINQ Project](/src/LINQ/LINQ.cs)
+
+## String
+
+[Official docs on learn.microsoft.com](https://learn.microsoft.com/en-us/dotnet/api/system.string?view=net-9.0#methods)
+
+A string is a word, and one of the foundational data types. .NET has numerous built in string operations that help to make for more effective software engineering. Many of these are things where you might otherwise be tempted to reinvent the wheel, so it's good to be familiar.
+
+[String Project](/src/String/String.cs)
